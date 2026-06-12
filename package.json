@@ -1,0 +1,1 @@
+{"scripts":{"install-all":"cd frontend && npm install && cd ../backend && npm install","frontend":"cd frontend && npm run dev","backend":"cd backend && npm run dev"},"private":true}
